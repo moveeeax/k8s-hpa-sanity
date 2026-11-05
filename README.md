@@ -30,3 +30,7 @@ k8s-hpa-sanity --all-namespaces --output json --fail-on error
 ## License
 
 MIT
+
+---
+
+Archived on 2026-11-05. The idea moved to [k8s-hpa-audit](https://github.com/moveeeax/k8s-hpa-audit/issues/1).
